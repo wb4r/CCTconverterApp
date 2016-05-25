@@ -26,7 +26,6 @@ rails s
 * 'nokogiri'
 * 'csv'
 * 'money'
-* 'csv'
 * 'sequel'
 * 'trollop'
 * 'tempfile'
