@@ -1,9 +1,11 @@
 ## CCTconverterApp
+
 ###### Ruby  app  for  obtaining  FX  rates. Acces with Ruby on Rails
 * Ruby 2.1.7
 * Rails 4.2.4
 * sqlite3
 * csv2sqlite (https://github.com/dergachev/csv2sqlite)
+
 
 ###### Instructions
 * Download repository and extract
@@ -21,6 +23,7 @@ rails s
 ```
 * It will be running in localhost. To visit the App navigate in your browser to 
 **localhost:3000**
+
 
 ###### Gems needed
 * 'nokogiri'
