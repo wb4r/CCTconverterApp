@@ -43,7 +43,7 @@
         </div>
         <div class="col-xs-6">
           <h3>
-            <% if !@search.result.nan? %>
+            <% if @search.result && !@search.result.nan? %>
               <%= f.text_field :result, :readonly => true, style: "max-width: 170px;" %>
             <% else %>
               Wrong Dates
