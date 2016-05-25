@@ -32,3 +32,6 @@ rails s
 * 'sequel'
 * 'trollop'
 * 'tempfile'
+
+**Project Started:** Mon, May 23, 2016 at 12:51 
+**Project Finished:** Wed, May 25, 2016 at 13:30 
