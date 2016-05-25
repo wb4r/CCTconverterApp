@@ -13,10 +13,10 @@
 
 ActiveRecord::Schema.define(version: 20160525074450) do
 
-  create_table "ecbs", force: :cascade do |t|
-    t.string "currency"
-    t.float  "rate"
-    t.date   "date"
+  create_table "ecbs", id: false, force: :cascade do |t|
+    t.string "currency", limit: 255
+    t.string "rate",     limit: 255
+    t.string "date",     limit: 255
   end
 
   create_table "searches", force: :cascade do |t|

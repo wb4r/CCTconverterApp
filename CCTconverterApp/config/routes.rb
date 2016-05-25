@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  resources :searches # MODIF LATER
+  resources :searches, only: [:new, :create]
   root to: "searches#new"
 end

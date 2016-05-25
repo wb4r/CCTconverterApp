@@ -1,4 +1,3 @@
-# This is MY_solution.rb that outputs a file called ecb.csv
 
 require 'open-uri'
 require 'nokogiri'
