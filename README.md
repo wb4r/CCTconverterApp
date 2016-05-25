@@ -21,3 +21,12 @@ rails s
 ```
 * It will be running in localhost. To visit the App navigate in your browser to 
 **localhost:3000**
+
+###### Gems needed
+* 'nokogiri'
+* 'csv'
+* 'money'
+* 'csv'
+* 'sequel'
+* 'trollop'
+* 'tempfile'
