@@ -33,6 +33,9 @@ rails s
 * 'trollop'
 * 'tempfile'
 
+###### Cron Job
+Use the ./updateApp.sh script to set a cron job in a UNIX system
+
 ----
 
 **Project Started:** Mon, May 23, 2016 at 12:51 
